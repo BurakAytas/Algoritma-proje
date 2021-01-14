@@ -1,0 +1,11 @@
+C:\Users\burak\source\repos\AlgoProje\AlgoProje\bin\Debug\AlgoProje.exe.config
+C:\Users\burak\source\repos\AlgoProje\AlgoProje\bin\Debug\AlgoProje.exe
+C:\Users\burak\source\repos\AlgoProje\AlgoProje\bin\Debug\AlgoProje.pdb
+C:\Users\burak\source\repos\AlgoProje\AlgoProje\obj\Debug\AlgoProje.csprojAssemblyReference.cache
+C:\Users\burak\source\repos\AlgoProje\AlgoProje\obj\Debug\AlgoProje.Form1.resources
+C:\Users\burak\source\repos\AlgoProje\AlgoProje\obj\Debug\AlgoProje.Properties.Resources.resources
+C:\Users\burak\source\repos\AlgoProje\AlgoProje\obj\Debug\AlgoProje.csproj.GenerateResource.cache
+C:\Users\burak\source\repos\AlgoProje\AlgoProje\obj\Debug\AlgoProje.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\AlgoProje\AlgoProje\obj\Debug\AlgoProje.exe
+C:\Users\burak\source\repos\AlgoProje\AlgoProje\obj\Debug\AlgoProje.pdb
+C:\Users\burak\source\repos\AlgoProje\AlgoProje\obj\Debug\AlgoProje.Arama.resources
